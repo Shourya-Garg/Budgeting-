@@ -10,3 +10,5 @@ projects, and total satisfaction.
 
 As the budgeting algorithm is NP-Hard ,it won't always give the same output that is it keeps changing.
 However it will always give a optimal result.
+
+![RESULT](https://github.com/Shourya-Garg/Budgeting-/blob/main/RESULT.png)
