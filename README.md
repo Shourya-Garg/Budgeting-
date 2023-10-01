@@ -1,6 +1,6 @@
 # Budgeting-
 The Requirements to run this program were python modules such as pandas,chardet and csv. I also used xlsxwriter to input the output to a excel file
-Here the code reads the data from a csv file and extracts the budget info,we then use greey algorithm that selects projects and maximizes number
+Here the code reads the data from a csv file and extracts the budget info,we then use greedy algorithm that selects projects and maximizes number
 of voters within the given budget,the process continues until the budget is exhausted or no more projects can be added to the bundle. The function
 returns the bundle B and the satisfaction counter.
 
